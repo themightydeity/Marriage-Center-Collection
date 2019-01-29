@@ -12,5 +12,12 @@
 bin/
 gen/
 
+# build locations
+app/build
+app/release
+
+#IDE configs
+.idea
+
 # Local configuration file (sdk path, etc)
 local.properties
